@@ -1,6 +1,6 @@
 # Java-Note-Keeper-Offline
 
-This app uses the offline storage to store data
+This is Command Line Interface app that uses the offline storage to store data
 
 Used the File Handling and the Binary Search on this app.
 
